@@ -39,5 +39,4 @@ It natively understands `.feedo` domains, completely bypassing traditional DNS a
    flutter run
    ```
 
-## License
-MIT
+
